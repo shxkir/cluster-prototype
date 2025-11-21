@@ -18,3 +18,6 @@ Today we installed Ubuntu on both systems and set up Exo. The installations went
 3. Once Exo works reliably across the network, install and run it on all connected PCs so they can operate in the background as part of a distributed setup.
 
 ---
+**Document Status:** Work in Progress
+**Last Updated:** 2025-11-20
+**Updated By:** Mohamed Sameer
